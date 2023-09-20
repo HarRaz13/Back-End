@@ -1,11 +1,14 @@
 # Fetching a file using node.js
-This is a project description in which we will fetch a file and display it's content using node.js. 
+Node.js is a very powerful JavaScript-based platform built on Google Chrome's JavaScript V8 Engine. It is used to develop I/O intensive web applications like video streaming sites, single-page applications, and other web applications. Node.js is open source, completely free, and used by thousands of developers around the world.
+
+We are going to use node.js to fetch a file and display its content on a webpage.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
 - [Code](#code)
+- [Outcome](#outcome)
 - [Learning Outcomes](#learning-outcomes)
 
 ## Features
@@ -54,7 +57,6 @@ Here are some of the features of the project.
   border-radius: 5px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
   }
-  Name - Harish Haridas UID - 22MCA20040
   h1 {
   color: #333;
   }
@@ -86,6 +88,12 @@ Here are some of the features of the project.
   console.log(`Server is listening on port ${port}`);
   })
 ```
+
+## Outcome
+<div align="center">
+    <img src="images/Screenshot.png" alt="Screenshot" />
+</div>
+
 
 ## Learning Outcomes
 - Able to learn the concepts of Node.js.
